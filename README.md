@@ -43,7 +43,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 
 | Name | Location | Notes |
 | ---- | -------- | ----- |
-| [Neuralink](https://boards.greenhouse.io/neuralink) | Fremont, CA <br/> Austin, TX | Software Engineer Intern at [Fremont, CA](https://boards.greenhouse.io/neuralink/jobs/5285389003) and [Austin, TX](https://boards.greenhouse.io/neuralink/jobs/5552197003) |
 | [Mercedes-Benz](https://jobs.lever.co/MBRDNA/59ae463c-5d10-4bb6-9dfd-4e26c7d84a69) | Sunnyvale, CA | Data Products Intern |
 | [Palantir Technologies](https://www.palantir.com/careers/students/path/) | New York, NY or Washington, DC | Palantir Path Intern (must be enrolled in a U.S. bachelor's program) |
 | [Marotta Controls](https://marotta.com/job-openings/?gnk=job&gni=8a7883ac879c5eca0187ef4d715d4fd8&lang=en) | Parsippany, NJ | Software Engineering Intern - (Summer 2024) (U.S citizens only)|
