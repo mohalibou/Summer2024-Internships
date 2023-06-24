@@ -44,7 +44,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Name | Location | Notes |
 | ---- | -------- | ----- |
 | [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html) | Global | Summer 2024 Analyst |
-| [Optiver](https://optiver.com/working-at-optiver/career-opportunities/) | Chicago, IL <br/> Austin, TX | [2024 Tech Graduate & Intern Expression of Interest](https://optiver.com/working-at-optiver/career-opportunities/6497784002) <br/> [2024 Trading Graduate & Intern Expression of Interest](https://optiver.com/working-at-optiver/career-opportunities/6614387002) |
 | [Neuralink](https://boards.greenhouse.io/neuralink) | Fremont, CA <br/> Austin, TX | Software Engineer Intern at [Fremont, CA](https://boards.greenhouse.io/neuralink/jobs/5285389003) and [Austin, TX](https://boards.greenhouse.io/neuralink/jobs/5552197003) |
 | [Protivity](https://roberthalf.wd1.myworkdayjobs.com/en-US/ProtivitiNA/job/PHOENIX/Phoenix-Technology-Consulting-Intern---2024_JR-248209-2?Location_Country=bc33aa3152ec42d4995f4791a106ed09&Location_Region_State_Province=c7b20b0d4bc04711a00900569e9afabd) | Phoenix, AZ | Technology Consulting Intern - 2024 Summer Internship (No Sponsorship) |
 | [Mercedes-Benz](https://jobs.lever.co/MBRDNA/59ae463c-5d10-4bb6-9dfd-4e26c7d84a69) | Sunnyvale, CA | Data Products Intern |
